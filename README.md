@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 
 3. Open the `index.html` file in your preferred web browser.
 
-Alternatively, you can access the live application at [URL_HERE](#).
+Unfortunately, you can't access the live application at [URL_HERE](#).
 
 ## Usage
 
@@ -57,7 +57,7 @@ Alternatively, you can access the live application at [URL_HERE](#).
 
 ### Screenshot
 
-![Generated Password](assets/images/screenshot.png)
+![Generated Password](Generated Password PNG.png)
 
 ## Credits
 
