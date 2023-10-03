@@ -1,4 +1,3 @@
-
 # Challenge3
 
 ## Description
@@ -11,9 +10,9 @@ Challenge3 is a web application that allows users to generate random passwords b
 - Ensures that passwords meet security standards by allowing users to include a variety of character types.
 - Provides a clean and responsive user interface for an optimal user experience.
 
-### What did we learn?
+### What did I learn?
 
-Through this project, we learned how to create a web application that dynamically generates passwords and adapts to different screen sizes. We gained experience in working with HTML, CSS, and JavaScript to build a polished user interface and implement user input validation.
+Through this project, I learned how to create a web application that dynamically generates passwords and adapts to different screen sizes. I gained experience in working with HTML, CSS, and JavaScript to build a polished user interface and implement user input validation.
 
 ## Table of Contents
 
@@ -29,7 +28,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Challenge3.git
+   git clone https://github.com/olz2003/Challenge3.git
    ```
 
 2. Navigate to the project directory:
@@ -62,7 +61,7 @@ Alternatively, you can access the live application at [URL_HERE](#).
 
 ## Credits
 
-This project was created by [Your Name](https://github.com/your-username). Special thanks to the OWASP Foundation for providing the list of [password special characters](https://www.owasp.org/index.php/Password_special_characters).
+This project was created by [Owen Zuercher](https://github.com/olz2003). Special thanks to the OWASP Foundation for providing the list of [password special characters](https://www.owasp.org/index.php/Password_special_characters).
 
 ## License
 
