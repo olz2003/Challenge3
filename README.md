@@ -57,7 +57,7 @@ Unfortunately, you can't access the live application at [URL_HERE](#).
 
 ### Screenshot
 
-![Generated Password](Generated Password PNG.png)
+![Generated Password](./Generated Password PNG.png)
 
 ## Credits
 
